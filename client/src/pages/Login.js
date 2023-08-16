@@ -59,9 +59,9 @@ const Login = () => {
   // ============== Logout End here =============================
 
   // ============== Github Login Start here =====================
-  const githubLogin = (e) => {
-    e.preventDefault();
-  };
+  // const githubLogin = (e) => {
+  //   e.preventDefault();
+  // };
   // ============== Github Login End here =======================
   return (
     <div className="w-full flex flex-col items-center justify-center gap-10 py-20">
