@@ -1,0 +1,13 @@
+.header_heading {
+ padding: 2rem;
+ font-size: 2rem;
+ font-weight: 600;
+ color: #000000;   
+}
+
+.footer_heading {
+    /* padding: 2rem; */
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #fff;
+}
